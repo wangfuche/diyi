@@ -22,4 +22,4 @@ cd package/lean
 rm -rf luci-theme-argon  
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
 git clone -b 18.06 https://github.com/r1172464137/luci-theme-edge.git
-sed -i 's/luci-theme-bootstrap/luci-theme-argon/' feeds/luci/collections/luci/Makefile
+
